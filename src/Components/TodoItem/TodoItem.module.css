@@ -1,0 +1,14 @@
+.todoItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    width: 70%;
+    background-color: aliceblue;
+    margin: 1rem auto;
+    border-radius: 10px;
+}
+
+.todoItem__action {
+    margin: 0 1rem;
+}

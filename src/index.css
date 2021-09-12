@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.submit-button {
+  font-size: 1rem;
+  padding: 0.5rem 1.5rem;
+  border-radius: 100px;
+  border: none;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  background-image: linear-gradient(
+    90deg,
+    hsla(197, 100%, 63%, 1) 0%,
+    hsla(294, 100%, 55%, 1) 100%
+  );
+}
